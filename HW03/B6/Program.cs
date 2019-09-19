@@ -7,35 +7,37 @@ namespace B6
     {
         static void Main(string[] args)
         {
-            int count = 0;
-            int previous = 0;
             int min = int.MaxValue;
-            bool ans = false;
-            while (true)
+            int i = 1;
+            int count = 0;
+            string output="";
+            WriteLine("Enter input");
+
+            while (i > 0)
             {
-                WriteLine("enter number");
-                int currnumber = int.Parse(ReadLine());
-                if (currnumber <= 0)
+                count++;
+                i = int.Parse(ReadLine());
+
+                if (i < min)
                 {
-                    break;
+                    min = i;
                 }
-                else
+                else if (min * min <= i)
                 {
-                    
-                    count++;
-                    if (currnumber < min)
-                    {
-                        min = currnumber;
-                    }
+                    output += i + "|";
+                    WriteLine("count: " + count + "\n output: " + output);
+                    WriteLine("\n Enter new set: ");
+                    i = 1;
+                    count = 0;
+                    min = int.MaxValue;
                 }
-                previous = currnumber;
+                if (count != 0)
+                {
+                    output += i + ",";
+                }
             }
-            int a = min * min;
-            if (a < previous)
-            {
-                previous++;
-            }
-            WriteLine($"last number greater than the square of the smallest is{previous}");
+            WriteLine("\n Final output: " + output);
+
         }
     }
 }
