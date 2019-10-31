@@ -116,6 +116,32 @@ namespace CSharp.Assignments
         /// <returns>The value of the element that's the farthest from your item; 0 if the array is null or empty</returns>
         public int FarthestItem(int[] array, int item)
         {
+            int n = array.Length;
+            if (item <= array[0])
+                return array[0];
+            if (item >= array[n - 1])
+                return array[n - 1];
+            int i = 0, j = n, mid = 0;
+            while (i < j)
+            {
+                mid = (i + j) / 2;
+
+                if (array[mid] == item)
+                    return array[mid];
+                if (item < array[mid])
+                {
+                    if (mid > 0 && item > array[mid - 1])
+                        return array[mid];
+                    j = mid;
+                }
+                else
+                {
+                    if (mid < n - 1 && item < array[mid + 1])
+                        return array[mid + 1];
+                    i = mid + 1;
+                }
+            }
+            return array[mid];
             throw new NotImplementedException();
         }
 
@@ -247,25 +273,25 @@ namespace CSharp.Assignments
         /// <returns>There should always be an array</returns>
         public int[] RepeatedTimes(int[] array)
         {
-            //int n = 0;
-            //int k = 0;
-            //int res=0;
-            //int i;
-            //for ( i = 0; i < n; i++)
-            //{
-            //    if (array[i] > 0)
-            //    {
-            //        int count = 1;
-            //        for (int j = i + 1; j < n; j++)
-            //            if (array[i] == array[j])
-            //                count += 1;
+            int n = 0;
+            int k = 0;
+            int res = 0;
+            int i;
+            for (i = 0; i < n; i++)
+            {
+                if (array[i] > 0)
+                {
+                    int count = 1;
+                    for (int j = i + 1; j < n; j++)
+                        if (array[i] == array[j])
+                            count += 1;
 
-            //        if (count == k)
-            //            res= array[i];
-            //    }
-                
-            //}
-            //return String.IndexOf(array);
+                    if (count == k)
+                        res = array[i];
+                }
+
+            }
+            return array;
             throw new NotImplementedException();
         }
 
@@ -531,6 +557,15 @@ namespace CSharp.Assignments
         /// <returns></returns>
         public void Rotate(int[] a, bool rotatedLeft)
         {
+            for(int i=0; i<=a.Length; i++)
+            if(rotatedLeft==true)
+            {
+                    a[0] = a[1]++;
+            }
+                else
+                {
+                    a[0] = a[a.Length]++;
+                }
             throw new NotImplementedException();
         }
 
@@ -546,6 +581,14 @@ namespace CSharp.Assignments
         /// <returns></returns>
         public void Rotate(int[] a, int n)
         {
+            if (n == 1)
+            {
+                a[0] = a[0];
+            }
+            else
+            {
+                a[0] = a[1]++;
+            }
             throw new NotImplementedException();
         }
 
@@ -557,6 +600,19 @@ namespace CSharp.Assignments
         /// <param name="array">Array.</param>
         public int PalindromicCount(int[] array)
         {
+            int i = 0;
+            int j = array.Length - 1;
+
+            while (i < j)
+            {
+                if (array[i] != array[j])
+                    return 1;
+
+                i++;
+                j--;
+            }
+
+            return 0;
             throw new NotImplementedException();
         }
 
@@ -605,6 +661,24 @@ namespace CSharp.Assignments
         /// <returns>The smallest, absolute difference between an element and the average of its adjacent elements</returns>
         public double ClosestAdjacent(int[] a)
         {
+            int average = 0;
+            int min = int.MaxValue;
+            double diff = 0;
+            bool ans = false;
+            for(int i=0; i<a.Length; i++)
+            {
+                if (a[i] < min)
+                {
+                    min = a[i];
+                    ans = true;
+                }
+                if (ans == true)
+                {
+                    average = (a[i - 1] + a[i + 1]) / 2;
+                }
+                diff = min - average;
+            }
+            return diff;
             throw new NotImplementedException();
         }
 

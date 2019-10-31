@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibehf\\source\\repos\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj": {}
+    "C:\\Users\\ibehf\\source\\repos\\edafetanureif3246_ISAM5430_HW\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibehf\\source\\repos\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj": {
+    "C:\\Users\\ibehf\\source\\repos\\edafetanureif3246_ISAM5430_HW\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibehf\\source\\repos\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj",
+        "projectUniqueName": "C:\\Users\\ibehf\\source\\repos\\edafetanureif3246_ISAM5430_HW\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj",
         "projectName": "ISAM5430.FA19.HW07",
-        "projectPath": "C:\\Users\\ibehf\\source\\repos\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj",
+        "projectPath": "C:\\Users\\ibehf\\source\\repos\\edafetanureif3246_ISAM5430_HW\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\ISAM5430.FA19.HW07.csproj",
         "packagesPath": "C:\\Users\\ibehf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibehf\\source\\repos\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\obj\\",
+        "outputPath": "C:\\Users\\ibehf\\source\\repos\\edafetanureif3246_ISAM5430_HW\\isam5430-fa19-hw07-Ibeh-Faith\\ISAM5430.FA19.HW07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

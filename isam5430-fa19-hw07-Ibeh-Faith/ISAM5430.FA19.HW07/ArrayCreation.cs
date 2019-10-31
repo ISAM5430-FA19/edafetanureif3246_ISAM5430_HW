@@ -121,6 +121,12 @@ namespace CSharp.Assignments
         /// <returns></returns>
         public int[] Copyarray(int[] array)
         {
+            int index=0;
+            int length=0;
+           int[] result = array;
+            Array.Copy(array, index, result, 0, length);
+            return result;
+        
             throw new NotImplementedException();
         }
     }
