@@ -15,7 +15,7 @@ namespace CSharp.Assignments
             /// <returns>the first element, or 0 if the array is empty or null</returns>
             public int FirstElement(int[] array)
         {
-            while (array != null||array.Length!=0)
+            while (array != null)
             {
                     return array[0];
                 }
@@ -35,8 +35,9 @@ namespace CSharp.Assignments
 
             while (array != null)
             {
-                return array[array.Length-1];
+                return array[array.Length - 1];
             }
+          
             return 0;
             throw new NotImplementedException();
 

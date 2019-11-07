@@ -6,7 +6,7 @@ namespace ISAM5430.FA19.HW07
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
