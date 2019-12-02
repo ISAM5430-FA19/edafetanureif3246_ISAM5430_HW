@@ -1,0 +1,17 @@
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.deps.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.runtimeconfig.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.runtimeconfig.dev.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.pdb
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.pdb
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.csprojAssemblyReference.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.AssemblyInfoInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.AssemblyInfo.cs
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.csproj.CopyComplete
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08.Tests\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.Tests.pdb

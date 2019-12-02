@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ISAM5430.FA19.HW08/1.0.0": {
+        "runtime": {
+          "ISAM5430.FA19.HW08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISAM5430.FA19.HW08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

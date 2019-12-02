@@ -1,0 +1,11 @@
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.deps.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.runtimeconfig.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.runtimeconfig.dev.json
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\bin\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.pdb
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.csprojAssemblyReference.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.csproj.CoreCompileInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.AssemblyInfoInputs.cache
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.AssemblyInfo.cs
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.dll
+C:\Users\ibehf\Source\Repos\isam5430-fa19-hw08-Ibeh-Faith\ISAM5430.FA19.HW08\obj\Debug\netcoreapp2.1\ISAM5430.FA19.HW08.pdb
